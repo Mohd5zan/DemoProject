@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: bisque;
+}
+#main{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h2{
+    font-size: 200px;
+}
+h4{
+    font-size: 50px;
+}
+button{
+    border-radius: 15px;
+    margin: 25px;
+    padding: 20px;
+    width: 150px;
+    color: black;
+    font-size: 20px;
+
+}
